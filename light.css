@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+h2{
+    color :rgb(0, 0, 0);
+}
+
+form {
+    color :rgb(0, 0, 0);
+}
+
 body{
     width:100%;
     max-width: 1400px;
